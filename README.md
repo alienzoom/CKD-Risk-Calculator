@@ -62,4 +62,4 @@
 
 ## 🧑‍💻 Автор
 Кокин Александр — Python Developer  
-@yaporii - telegram, Kokin.Alexander1@yandex.ru - email
+@Yaporii - telegram, Kokin.Alexander1@yandex.ru - email
